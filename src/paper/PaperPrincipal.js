@@ -24,7 +24,7 @@ const estilo = {
   },
   style1: {
   height: 565,
-  width: 1000,
+  width: 700,
   margin: 4,
   textAlign: 'center',
   display: 'inline-block',
